@@ -1,0 +1,24 @@
+# Ambientes Virtuais e Credenciais
+.venv/
+.env
+
+# Bancos de Dados e Datasets
+*.csv
+*.dat
+*.out
+*.json
+datasets/
+data/
+
+# Arquivos compilados do Python (Machine Learning)
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Arquivos compilados do Java (IoTSim)
+*.class
+target/
+bin/
+
+# Configurações locais de IDEs
+.vscode/
