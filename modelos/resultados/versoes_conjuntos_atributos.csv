@@ -1,0 +1,65 @@
+versão,protocolo,conjunto,modelo,F1 (macro),acurácia
+v1,Por gateway,Sensores,Árvore de Decisão,0.3887,0.4019
+v1,Por gateway,Sensores,Random Forest,0.4232,0.4388
+v1,Por gateway,Sensores,Regressão Logística,0.3432,0.3718
+v1,Por gateway,Sensores,KNN,0.3436,0.3811
+v1,Por gateway,Sensores + rede,Árvore de Decisão,0.5122,0.5141
+v1,Por gateway,Sensores + rede,Random Forest,0.5427,0.5485
+v1,Por gateway,Sensores + rede,Regressão Logística,0.5618,0.5777
+v1,Por gateway,Sensores + rede,KNN,0.4928,0.5374
+v1,Por gateway,Sensores + bateria (nível),Árvore de Decisão,0.7231,0.7408
+v1,Por gateway,Sensores + bateria (nível),Random Forest,0.7202,0.7374
+v1,Por gateway,Sensores + bateria (nível),Regressão Logística,0.4935,0.5019
+v1,Por gateway,Sensores + bateria (nível),KNN,0.4949,0.5039
+v1,Por gateway,Sensores + bateria (taxa),Árvore de Decisão,0.6730,0.6791
+v1,Por gateway,Sensores + bateria (taxa),Random Forest,0.6685,0.6796
+v1,Por gateway,Sensores + bateria (taxa),Regressão Logística,0.4099,0.4505
+v1,Por gateway,Sensores + bateria (taxa),KNN,0.4122,0.4549
+v1,Por gateway,Sensores + rede + bateria (nível),Árvore de Decisão,0.7835,0.7869
+v1,Por gateway,Sensores + rede + bateria (nível),Random Forest,0.7958,0.7985
+v1,Por gateway,Sensores + rede + bateria (nível),Regressão Logística,0.6333,0.6427
+v1,Por gateway,Sensores + rede + bateria (nível),KNN,0.6073,0.6189
+v1,Por gateway,Sensores + rede + bateria (taxa),Árvore de Decisão,0.6795,0.6811
+v1,Por gateway,Sensores + rede + bateria (taxa),Random Forest,0.7289,0.7335
+v1,Por gateway,Sensores + rede + bateria (taxa),Regressão Logística,0.5858,0.6058
+v1,Por gateway,Sensores + rede + bateria (taxa),KNN,0.5125,0.5568
+v1,Por gateway,Apenas bateria (nível),Árvore de Decisão,0.7092,0.7291
+v1,Por gateway,Apenas bateria (nível),Random Forest,0.7111,0.7301
+v1,Por gateway,Apenas bateria (nível),Regressão Logística,0.3939,0.4306
+v1,Por gateway,Apenas bateria (nível),KNN,0.6593,0.6617
+v1,Por gateway,Apenas bateria (taxa),Árvore de Decisão,0.6183,0.6170
+v1,Por gateway,Apenas bateria (taxa),Random Forest,0.6317,0.6311
+v1,Por gateway,Apenas bateria (taxa),Regressão Logística,0.4728,0.5252
+v1,Por gateway,Apenas bateria (taxa),KNN,0.5761,0.5903
+v2,Uma execução de fora,Sensores,Árvore de Decisão,0.3228,0.3630
+v2,Uma execução de fora,Sensores,Random Forest,0.3308,0.3827
+v2,Uma execução de fora,Sensores,Regressão Logística,0.2169,0.3791
+v2,Uma execução de fora,Sensores,KNN,0.2892,0.3860
+v2,Uma execução de fora,Sensores + rede,Árvore de Decisão,0.4025,0.4255
+v2,Uma execução de fora,Sensores + rede,Random Forest,0.4429,0.4899
+v2,Uma execução de fora,Sensores + rede,Regressão Logística,0.4375,0.5142
+v2,Uma execução de fora,Sensores + rede,KNN,0.4193,0.4904
+v2,Uma execução de fora,Sensores + bateria (nível),Árvore de Decisão,0.3918,0.4087
+v2,Uma execução de fora,Sensores + bateria (nível),Random Forest,0.4223,0.4581
+v2,Uma execução de fora,Sensores + bateria (nível),Regressão Logística,0.3479,0.4343
+v2,Uma execução de fora,Sensores + bateria (nível),KNN,0.3834,0.4404
+v2,Uma execução de fora,Sensores + bateria (taxa),Árvore de Decisão,0.4679,0.4883
+v2,Uma execução de fora,Sensores + bateria (taxa),Random Forest,0.4981,0.5405
+v2,Uma execução de fora,Sensores + bateria (taxa),Regressão Logística,0.3861,0.4961
+v2,Uma execução de fora,Sensores + bateria (taxa),KNN,0.4282,0.5041
+v2,Uma execução de fora,Sensores + rede + bateria (nível),Árvore de Decisão,0.4480,0.4588
+v2,Uma execução de fora,Sensores + rede + bateria (nível),Random Forest,0.5031,0.5277
+v2,Uma execução de fora,Sensores + rede + bateria (nível),Regressão Logística,0.4952,0.5519
+v2,Uma execução de fora,Sensores + rede + bateria (nível),KNN,0.4909,0.5329
+v2,Uma execução de fora,Sensores + rede + bateria (taxa),Árvore de Decisão,0.4933,0.5021
+v2,Uma execução de fora,Sensores + rede + bateria (taxa),Random Forest,0.5480,0.5739
+v2,Uma execução de fora,Sensores + rede + bateria (taxa),Regressão Logística,0.5040,0.5772
+v2,Uma execução de fora,Sensores + rede + bateria (taxa),KNN,0.4727,0.5366
+v2,Uma execução de fora,Apenas bateria (nível),Árvore de Decisão,0.3372,0.3624
+v2,Uma execução de fora,Apenas bateria (nível),Random Forest,0.3357,0.3517
+v2,Uma execução de fora,Apenas bateria (nível),Regressão Logística,0.2504,0.4084
+v2,Uma execução de fora,Apenas bateria (nível),KNN,0.2867,0.3309
+v2,Uma execução de fora,Apenas bateria (taxa),Árvore de Decisão,0.4008,0.4250
+v2,Uma execução de fora,Apenas bateria (taxa),Random Forest,0.3965,0.4171
+v2,Uma execução de fora,Apenas bateria (taxa),Regressão Logística,0.3810,0.5000
+v2,Uma execução de fora,Apenas bateria (taxa),KNN,0.4320,0.4706

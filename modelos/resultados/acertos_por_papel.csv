@@ -1,0 +1,5 @@
+papel,normal,pre_desastre,desastre,pos_desastre,geral
+Falha energética,1.0000,0.8785,0.4175,1.0000,0.8378
+Falha de rede,0.8898,0.7426,0.8548,0.7753,0.8162
+Degradação,0.6957,0.7406,0.8889,0.8249,0.7759
+Controle,0.8644,0.7373,0.6667,0.8696,0.7842

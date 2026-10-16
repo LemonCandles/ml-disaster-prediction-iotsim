@@ -1,0 +1,15 @@
+,queda média no F1 macro
+pressure,0.0003
+available,0.0004
+temperature,0.0017
+disponibilidade_60s,0.0017
+latencia_media_60s,0.0024
+temp_media_60s,0.0024
+latency_ms,0.0029
+drop_rate,0.0030
+gw_latencia_mediana_60s,0.0123
+gw_temp_media_60s,0.0340
+gw_falhas_60s,0.0597
+battery_rate_pp_min,0.0625
+gw_taxa_bateria_media_60s,0.1023
+gw_temp_max_60s,0.1884

@@ -1,0 +1,6 @@
+,normal,pre_desastre,desastre,pos_desastre
+Referência (classe majoritária),0.4429,0.0000,0.0000,0.0000
+Árvore de Decisão,0.8289,0.7417,0.7067,0.8566
+Random Forest,0.8254,0.7564,0.7416,0.8597
+Regressão Logística,0.6820,0.5990,0.5425,0.7098
+KNN,0.6709,0.5616,0.6229,0.5738

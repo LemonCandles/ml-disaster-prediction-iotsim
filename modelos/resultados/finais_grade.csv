@@ -1,0 +1,57 @@
+representação,conjunto,modelo,F1 (macro),acurácia
+Consulta isolada,Sensores,Árvore de Decisão,0.3228,0.3630
+Consulta isolada,Sensores,Random Forest,0.3308,0.3827
+Consulta isolada,Sensores,Regressão Logística,0.2169,0.3791
+Consulta isolada,Sensores,KNN,0.2892,0.3860
+Consulta isolada,Sensores,SVM,0.2762,0.4153
+Consulta isolada,Sensores,Gradient Boosting,0.3449,0.4660
+Consulta isolada,Sensores,XGBoost,0.3412,0.4480
+Consulta isolada,Sensores + bateria,Árvore de Decisão,0.4679,0.4883
+Consulta isolada,Sensores + bateria,Random Forest,0.4981,0.5405
+Consulta isolada,Sensores + bateria,Regressão Logística,0.3861,0.4961
+Consulta isolada,Sensores + bateria,KNN,0.4282,0.5041
+Consulta isolada,Sensores + bateria,SVM,0.4093,0.5034
+Consulta isolada,Sensores + bateria,Gradient Boosting,0.5098,0.5546
+Consulta isolada,Sensores + bateria,XGBoost,0.5144,0.5658
+Consulta isolada,Sensores + rede,Árvore de Decisão,0.4025,0.4255
+Consulta isolada,Sensores + rede,Random Forest,0.4429,0.4899
+Consulta isolada,Sensores + rede,Regressão Logística,0.4375,0.5142
+Consulta isolada,Sensores + rede,KNN,0.4193,0.4904
+Consulta isolada,Sensores + rede,SVM,0.4660,0.5426
+Consulta isolada,Sensores + rede,Gradient Boosting,0.4779,0.5466
+Consulta isolada,Sensores + rede,XGBoost,0.4624,0.5226
+Consulta isolada,Sensores + rede + bateria,Árvore de Decisão,0.4933,0.5021
+Consulta isolada,Sensores + rede + bateria,Random Forest,0.5480,0.5739
+Consulta isolada,Sensores + rede + bateria,Regressão Logística,0.5040,0.5772
+Consulta isolada,Sensores + rede + bateria,KNN,0.4727,0.5366
+Consulta isolada,Sensores + rede + bateria,SVM,0.5261,0.5920
+Consulta isolada,Sensores + rede + bateria,Gradient Boosting,0.5539,0.5845
+Consulta isolada,Sensores + rede + bateria,XGBoost,0.5623,0.5956
+Com janelas de 60 s,Sensores,Árvore de Decisão,0.5564,0.6035
+Com janelas de 60 s,Sensores,Random Forest,0.6476,0.6888
+Com janelas de 60 s,Sensores,Regressão Logística,0.6563,0.7044
+Com janelas de 60 s,Sensores,KNN,0.6588,0.7113
+Com janelas de 60 s,Sensores,SVM,0.6636,0.7185
+Com janelas de 60 s,Sensores,Gradient Boosting,0.6228,0.6613
+Com janelas de 60 s,Sensores,XGBoost,0.6280,0.6640
+Com janelas de 60 s,Sensores + bateria,Árvore de Decisão,0.6965,0.7190
+Com janelas de 60 s,Sensores + bateria,Random Forest,0.7752,0.7996
+Com janelas de 60 s,Sensores + bateria,Regressão Logística,0.7605,0.7894
+Com janelas de 60 s,Sensores + bateria,KNN,0.7403,0.7787
+Com janelas de 60 s,Sensores + bateria,SVM,0.7810,0.8128
+Com janelas de 60 s,Sensores + bateria,Gradient Boosting,0.7483,0.7760
+Com janelas de 60 s,Sensores + bateria,XGBoost,0.7520,0.7769
+Com janelas de 60 s,Sensores + rede,Árvore de Decisão,0.6569,0.6829
+Com janelas de 60 s,Sensores + rede,Random Forest,0.7688,0.7997
+Com janelas de 60 s,Sensores + rede,Regressão Logística,0.7362,0.7687
+Com janelas de 60 s,Sensores + rede,KNN,0.7463,0.7824
+Com janelas de 60 s,Sensores + rede,SVM,0.7607,0.7947
+Com janelas de 60 s,Sensores + rede,Gradient Boosting,0.7255,0.7538
+Com janelas de 60 s,Sensores + rede,XGBoost,0.7299,0.7590
+Com janelas de 60 s,Sensores + rede + bateria,Árvore de Decisão,0.6976,0.7172
+Com janelas de 60 s,Sensores + rede + bateria,Random Forest,0.8175,0.8392
+Com janelas de 60 s,Sensores + rede + bateria,Regressão Logística,0.7888,0.8130
+Com janelas de 60 s,Sensores + rede + bateria,KNN,0.7730,0.8038
+Com janelas de 60 s,Sensores + rede + bateria,SVM,0.8067,0.8320
+Com janelas de 60 s,Sensores + rede + bateria,Gradient Boosting,0.7945,0.8156
+Com janelas de 60 s,Sensores + rede + bateria,XGBoost,0.7904,0.8110

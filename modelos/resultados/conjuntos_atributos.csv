@@ -1,0 +1,41 @@
+conjunto,modelo,protocolo,F1 (macro),acurácia
+Sensores,Árvore de Decisão,Aleatório 70/30,0.3895,0.4029
+Sensores,Árvore de Decisão,Por gateway,0.3887,0.4019
+Sensores,Random Forest,Aleatório 70/30,0.4095,0.4320
+Sensores,Random Forest,Por gateway,0.4232,0.4388
+Sensores,Regressão Logística,Aleatório 70/30,0.3280,0.3673
+Sensores,Regressão Logística,Por gateway,0.3432,0.3718
+Sensores,KNN,Aleatório 70/30,0.4163,0.4450
+Sensores,KNN,Por gateway,0.3436,0.3811
+Sensores + bateria,Árvore de Decisão,Aleatório 70/30,0.7282,0.7298
+Sensores + bateria,Árvore de Decisão,Por gateway,0.7231,0.7408
+Sensores + bateria,Random Forest,Aleatório 70/30,0.7243,0.7265
+Sensores + bateria,Random Forest,Por gateway,0.7202,0.7374
+Sensores + bateria,Regressão Logística,Aleatório 70/30,0.4917,0.5032
+Sensores + bateria,Regressão Logística,Por gateway,0.4935,0.5019
+Sensores + bateria,KNN,Aleatório 70/30,0.5835,0.5874
+Sensores + bateria,KNN,Por gateway,0.4949,0.5039
+Sensores + rede,Árvore de Decisão,Aleatório 70/30,0.4926,0.4984
+Sensores + rede,Árvore de Decisão,Por gateway,0.5122,0.5141
+Sensores + rede,Random Forest,Aleatório 70/30,0.5564,0.5647
+Sensores + rede,Random Forest,Por gateway,0.5427,0.5485
+Sensores + rede,Regressão Logística,Aleatório 70/30,0.5515,0.5728
+Sensores + rede,Regressão Logística,Por gateway,0.5618,0.5777
+Sensores + rede,KNN,Aleatório 70/30,0.5504,0.5696
+Sensores + rede,KNN,Por gateway,0.4928,0.5374
+Sensores + rede + bateria,Árvore de Decisão,Aleatório 70/30,0.7894,0.7945
+Sensores + rede + bateria,Árvore de Decisão,Por gateway,0.7835,0.7869
+Sensores + rede + bateria,Random Forest,Aleatório 70/30,0.7870,0.7913
+Sensores + rede + bateria,Random Forest,Por gateway,0.7958,0.7985
+Sensores + rede + bateria,Regressão Logística,Aleatório 70/30,0.6369,0.6456
+Sensores + rede + bateria,Regressão Logística,Por gateway,0.6333,0.6427
+Sensores + rede + bateria,KNN,Aleatório 70/30,0.6504,0.6570
+Sensores + rede + bateria,KNN,Por gateway,0.6073,0.6189
+Apenas bateria (diagnóstico),Árvore de Decisão,Aleatório 70/30,0.6985,0.7006
+Apenas bateria (diagnóstico),Árvore de Decisão,Por gateway,0.7092,0.7291
+Apenas bateria (diagnóstico),Random Forest,Aleatório 70/30,0.6595,0.6586
+Apenas bateria (diagnóstico),Random Forest,Por gateway,0.7111,0.7301
+Apenas bateria (diagnóstico),Regressão Logística,Aleatório 70/30,0.3881,0.4239
+Apenas bateria (diagnóstico),Regressão Logística,Por gateway,0.3939,0.4306
+Apenas bateria (diagnóstico),KNN,Aleatório 70/30,0.6959,0.6990
+Apenas bateria (diagnóstico),KNN,Por gateway,0.6593,0.6617

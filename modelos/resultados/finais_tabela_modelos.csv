@@ -1,0 +1,8 @@
+,acurácia,precisão (macro),revocação (macro),F1 (macro),F1 por execução (média),F1 por execução (dp),alarmes falsos (execução sem desastre),alarmes falsos (todas as consultas normais)
+Random Forest,0.8392,0.8217,0.8175,0.8175,0.8063,0.0361,0.0202,0.0489
+SVM,0.8320,0.8267,0.8005,0.8067,0.7965,0.0285,0.0000,0.0056
+Gradient Boosting,0.8156,0.7940,0.7955,0.7945,0.7883,0.0342,0.0567,0.0814
+XGBoost,0.8110,0.7896,0.7918,0.7904,0.7871,0.0501,0.0858,0.0910
+Regressão Logística,0.8130,0.8001,0.7836,0.7888,0.7743,0.0417,0.0214,0.0361
+KNN,0.8038,0.7896,0.7693,0.7730,0.7651,0.0428,0.0097,0.0186
+Árvore de Decisão,0.7172,0.6996,0.7027,0.6976,0.6922,0.0565,0.1934,0.2088

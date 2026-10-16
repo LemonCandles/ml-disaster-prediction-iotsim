@@ -1,0 +1,9 @@
+,papel,normal,pre_desastre,desastre,pos_desastre
+consulta isolada,Controle,0.7626,0.0478,0.0178,0.0328
+consulta isolada,Degradação,0.8365,0.7455,0.8750,0.6647
+consulta isolada,Falha de rede,0.8176,0.8074,0.8284,0.7143
+consulta isolada,Falha energética,0.8497,0.8551,0.3909,1.0000
+com janelas (ajustado),Controle,0.9762,0.7472,0.8326,0.6112
+com janelas (ajustado),Degradação,0.9533,0.7367,0.8984,0.7232
+com janelas (ajustado),Falha de rede,0.8879,0.7753,0.8779,0.7089
+com janelas (ajustado),Falha energética,0.8770,0.8892,0.8553,0.8237

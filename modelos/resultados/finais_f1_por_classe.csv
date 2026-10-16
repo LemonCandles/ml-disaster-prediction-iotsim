@@ -1,0 +1,8 @@
+,normal,pre_desastre,desastre,pos_desastre
+Random Forest,0.9451,0.7651,0.8198,0.7349
+Gradient Boosting,0.9323,0.7529,0.7909,0.7391
+SVM,0.9290,0.7205,0.8143,0.7486
+XGBoost,0.9385,0.7457,0.7916,0.7229
+Regressão Logística,0.9136,0.6945,0.7950,0.7627
+KNN,0.9185,0.6860,0.8027,0.6818
+Árvore de Decisão,0.8631,0.6175,0.6571,0.6350

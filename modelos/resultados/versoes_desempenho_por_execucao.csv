@@ -1,0 +1,9 @@
+execução,linhas,acurácia,F1 macro,normal previsto como outra fase
+execucao_01,2116,0.6092,0.5901,0.2151
+execucao_02,2301,0.4898,0.4959,0.1558
+execucao_03,1589,0.5500,0.5556,0.1452
+execucao_04,2481,0.5284,0.5206,0.1344
+execucao_05,2118,0.5685,0.5669,0.1583
+execucao_06,2437,0.5051,0.4932,0.0724
+execucao_07,2179,0.6521,0.6343,0.1102
+execucao_08,2575,0.6823,,0.3177

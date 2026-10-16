@@ -1,0 +1,20 @@
+,Versão 1,Versão 2
+Cenário,evento_termico_v1,evento_termico_v2
+Execuções (com desastre / sem desastre),1 / 0,7 / 1
+Sensores por execução,10–10,8–12
+Duração do ciclo (s),1200–1200,1110–1320
+Carga na 1ª leitura (%),94–100,60–100
+Papéis (controle / degradação / energia / rede),2 / 4 / 2 / 2,38 / 30 / 7 / 8
+Perturbações benignas,0,15
+Tentativas,2062,17812
+Cruzaram fronteira de fase,2,16
+Disponibilidade geral,"82,3%","89,8%"
+Normal: tentativas (%),"586 (28,4%)","6649 (37,3%)"
+Normal: disponibilidade,"98,8%","98,5%"
+Pré-desastre: tentativas (%),"539 (26,1%)","3755 (21,1%)"
+Pré-desastre: disponibilidade,"93,9%","95,7%"
+Desastre: tentativas (%),"436 (21,1%)","3681 (20,7%)"
+Desastre: disponibilidade,"63,8%","77,0%"
+Pós-desastre: tentativas (%),"501 (24,3%)","3727 (20,9%)"
+Pós-desastre: disponibilidade,"66,7%","81,2%"
+Colunas,26,26
