@@ -1,0 +1,504 @@
+[
+  {
+    "time_ms": 41000,
+    "device": "coap://127.0.0.1:9303/device/data",
+    "event": {
+      "event_name": "congestionamento_benigno",
+      "event_type": "transient",
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.3,
+          "max": 1.0
+        },
+        {
+          "probability": 30,
+          "min": 1.0,
+          "max": 2.5
+        }
+      ],
+      "drop_percentage": 59.8,
+      "transition_duration_s": 0,
+      "transient_event_duration_s": 57,
+      "transient_event_return_s": 0
+    }
+  },
+  {
+    "time_ms": 82000,
+    "device": "coap://127.0.0.1:9354/device/data",
+    "event": {
+      "event_name": "aquecimento_local_benigno",
+      "event_type": "transient",
+      "delay_profiles": [],
+      "temperature_range": [
+        32.1,
+        42.2
+      ],
+      "transition_duration_s": 10,
+      "transient_event_duration_s": 65,
+      "transient_event_return_s": 10
+    }
+  },
+  {
+    "time_ms": 112000,
+    "device": "coap://127.0.0.1:9304/device/data",
+    "event": {
+      "event_name": "congestionamento_benigno",
+      "event_type": "transient",
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.3,
+          "max": 1.0
+        },
+        {
+          "probability": 30,
+          "min": 1.0,
+          "max": 2.5
+        }
+      ],
+      "drop_percentage": 31.3,
+      "transition_duration_s": 0,
+      "transient_event_duration_s": 55,
+      "transient_event_return_s": 0
+    }
+  },
+  {
+    "time_ms": 240000,
+    "device": "coap://127.0.0.1:9302/device/data",
+    "event": {
+      "event_name": "pre_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        25.4,
+        38.8
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.051,
+      "battery_idle_discharge": 0.17,
+      "drop_percentage": 6.8,
+      "delay_profiles": [
+        {
+          "probability": 80,
+          "min": 0.085,
+          "max": 0.51
+        },
+        {
+          "probability": 20,
+          "min": 0.51,
+          "max": 1.275
+        }
+      ],
+      "transition_duration_s": 111
+    }
+  },
+  {
+    "time_ms": 240000,
+    "device": "coap://127.0.0.1:9303/device/data",
+    "event": {
+      "event_name": "pre_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        25.8,
+        39.7
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.057,
+      "battery_idle_discharge": 0.192,
+      "drop_percentage": 7.7,
+      "delay_profiles": [
+        {
+          "probability": 80,
+          "min": 0.096,
+          "max": 0.575
+        },
+        {
+          "probability": 20,
+          "min": 0.575,
+          "max": 1.437
+        }
+      ],
+      "transition_duration_s": 111
+    }
+  },
+  {
+    "time_ms": 240000,
+    "device": "coap://127.0.0.1:9351/device/data",
+    "event": {
+      "event_name": "pre_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        25.4,
+        38.8
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.051,
+      "battery_idle_discharge": 0.169,
+      "drop_percentage": 6.8,
+      "delay_profiles": [
+        {
+          "probability": 80,
+          "min": 0.085,
+          "max": 0.508
+        },
+        {
+          "probability": 20,
+          "min": 0.508,
+          "max": 1.269
+        }
+      ],
+      "transition_duration_s": 111
+    }
+  },
+  {
+    "time_ms": 240000,
+    "device": "coap://127.0.0.1:9352/device/data",
+    "event": {
+      "event_name": "pre_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        25.7,
+        39.4
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.056,
+      "battery_idle_discharge": 0.185,
+      "drop_percentage": 7.4,
+      "delay_profiles": [
+        {
+          "probability": 80,
+          "min": 0.093,
+          "max": 0.556
+        },
+        {
+          "probability": 20,
+          "min": 0.556,
+          "max": 1.391
+        }
+      ],
+      "transition_duration_s": 111
+    }
+  },
+  {
+    "time_ms": 240000,
+    "device": "coap://127.0.0.1:9353/device/data",
+    "event": {
+      "event_name": "pre_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        25.8,
+        39.5
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.057,
+      "battery_idle_discharge": 0.189,
+      "drop_percentage": 7.5,
+      "delay_profiles": [
+        {
+          "probability": 80,
+          "min": 0.094,
+          "max": 0.566
+        },
+        {
+          "probability": 20,
+          "min": 0.566,
+          "max": 1.414
+        }
+      ],
+      "transition_duration_s": 111
+    }
+  },
+  {
+    "time_ms": 510000,
+    "device": "coap://127.0.0.1:9302/device/data",
+    "event": {
+      "event_name": "desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        32.8,
+        49.6
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.085,
+      "battery_idle_discharge": 3.4,
+      "drop_percentage": 29.8,
+      "delay_profiles": [
+        {
+          "probability": 75,
+          "min": 0.68,
+          "max": 1.53
+        },
+        {
+          "probability": 25,
+          "min": 1.7,
+          "max": 3.4
+        }
+      ],
+      "transition_duration_s": 20
+    }
+  },
+  {
+    "time_ms": 510000,
+    "device": "coap://127.0.0.1:9303/device/data",
+    "event": {
+      "event_name": "desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        33.7,
+        51.3
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.096,
+      "battery_idle_discharge": 3.832,
+      "drop_percentage": 33.5,
+      "delay_profiles": [
+        {
+          "probability": 75,
+          "min": 0.766,
+          "max": 1.724
+        },
+        {
+          "probability": 25,
+          "min": 1.916,
+          "max": 3.832
+        }
+      ],
+      "transition_duration_s": 20
+    }
+  },
+  {
+    "time_ms": 510000,
+    "device": "coap://127.0.0.1:9351/device/data",
+    "event": {
+      "event_name": "desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        32.8,
+        49.5
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.085,
+      "battery_idle_discharge": 3.384,
+      "drop_percentage": 29.6,
+      "delay_profiles": [
+        {
+          "probability": 75,
+          "min": 0.677,
+          "max": 1.523
+        },
+        {
+          "probability": 25,
+          "min": 1.692,
+          "max": 3.384
+        }
+      ],
+      "transition_duration_s": 20
+    }
+  },
+  {
+    "time_ms": 510000,
+    "device": "coap://127.0.0.1:9352/device/data",
+    "event": {
+      "event_name": "desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        33.4,
+        50.8
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.093,
+      "battery_idle_discharge": 3.708,
+      "drop_percentage": 32.4,
+      "delay_profiles": [
+        {
+          "probability": 75,
+          "min": 0.742,
+          "max": 1.669
+        },
+        {
+          "probability": 25,
+          "min": 1.854,
+          "max": 3.708
+        }
+      ],
+      "transition_duration_s": 20
+    }
+  },
+  {
+    "time_ms": 510000,
+    "device": "coap://127.0.0.1:9353/device/data",
+    "event": {
+      "event_name": "desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        33.5,
+        51.1
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.094,
+      "battery_idle_discharge": 3.772,
+      "drop_percentage": 33.0,
+      "delay_profiles": [
+        {
+          "probability": 75,
+          "min": 0.754,
+          "max": 1.697
+        },
+        {
+          "probability": 25,
+          "min": 1.886,
+          "max": 3.772
+        }
+      ],
+      "transition_duration_s": 20
+    }
+  },
+  {
+    "time_ms": 587000,
+    "device": "coap://127.0.0.1:9303/device/data",
+    "event": {
+      "event_name": "falha_energetica_permanente",
+      "event_type": "permanent",
+      "battery_idle_discharge": 120.0,
+      "delay_profiles": [],
+      "transition_duration_s": 0
+    }
+  },
+  {
+    "time_ms": 638000,
+    "device": "coap://127.0.0.1:9353/device/data",
+    "event": {
+      "event_name": "falha_energetica_permanente",
+      "event_type": "permanent",
+      "battery_idle_discharge": 120.0,
+      "delay_profiles": [],
+      "transition_duration_s": 0
+    }
+  },
+  {
+    "time_ms": 840000,
+    "device": "coap://127.0.0.1:9302/device/data",
+    "event": {
+      "event_name": "pos_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        24.2,
+        37.8
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.04,
+      "battery_idle_discharge": 0.5,
+      "drop_percentage": 8.5,
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.128,
+          "max": 0.51
+        },
+        {
+          "probability": 30,
+          "min": 0.51,
+          "max": 1.19
+        }
+      ],
+      "transition_duration_s": 107
+    }
+  },
+  {
+    "time_ms": 840000,
+    "device": "coap://127.0.0.1:9351/device/data",
+    "event": {
+      "event_name": "pos_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        24.2,
+        37.8
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.04,
+      "battery_idle_discharge": 0.5,
+      "drop_percentage": 8.5,
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.127,
+          "max": 0.508
+        },
+        {
+          "probability": 30,
+          "min": 0.508,
+          "max": 1.184
+        }
+      ],
+      "transition_duration_s": 107
+    }
+  },
+  {
+    "time_ms": 840000,
+    "device": "coap://127.0.0.1:9352/device/data",
+    "event": {
+      "event_name": "pos_desastre",
+      "event_type": "permanent",
+      "temperature_range": [
+        24.6,
+        38.4
+      ],
+      "pressure_range": [
+        1000.0,
+        1020.0
+      ],
+      "battery_transmit_discharge": 0.04,
+      "battery_idle_discharge": 0.5,
+      "drop_percentage": 9.3,
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.139,
+          "max": 0.556
+        },
+        {
+          "probability": 30,
+          "min": 0.556,
+          "max": 1.298
+        }
+      ],
+      "transition_duration_s": 107
+    }
+  }
+]

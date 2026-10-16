@@ -1,0 +1,12 @@
+{
+  "gw01-d01": "degradacao",
+  "gw01-d02": "degradacao",
+  "gw01-d03": "controle",
+  "gw01-d04": "degradacao",
+  "gw02-d01": "degradacao",
+  "gw02-d02": "degradacao",
+  "gw02-d03": "falha_rede",
+  "gw02-d04": "controle",
+  "gw02-d05": "degradacao",
+  "gw02-d06": "degradacao"
+}

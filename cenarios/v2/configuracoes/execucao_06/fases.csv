@@ -1,0 +1,5 @@
+rotulo,inicio_s,fim_s_exclusivo,transicao_s
+normal,0,270,0
+pre_desastre,270,540,137
+desastre,540,840,40
+pos_desastre,840,1110,150

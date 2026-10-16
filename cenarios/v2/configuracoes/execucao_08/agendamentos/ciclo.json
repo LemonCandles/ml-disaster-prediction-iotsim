@@ -1,0 +1,66 @@
+[
+  {
+    "time_ms": 356000,
+    "device": "coap://127.0.0.1:9805/device/data",
+    "event": {
+      "event_name": "congestionamento_benigno",
+      "event_type": "transient",
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.3,
+          "max": 1.0
+        },
+        {
+          "probability": 30,
+          "min": 1.0,
+          "max": 2.5
+        }
+      ],
+      "drop_percentage": 37.4,
+      "transition_duration_s": 0,
+      "transient_event_duration_s": 41,
+      "transient_event_return_s": 0
+    }
+  },
+  {
+    "time_ms": 361000,
+    "device": "coap://127.0.0.1:9856/device/data",
+    "event": {
+      "event_name": "aquecimento_local_benigno",
+      "event_type": "transient",
+      "delay_profiles": [],
+      "temperature_range": [
+        32.2,
+        43.9
+      ],
+      "transition_duration_s": 10,
+      "transient_event_duration_s": 69,
+      "transient_event_return_s": 10
+    }
+  },
+  {
+    "time_ms": 511000,
+    "device": "coap://127.0.0.1:9854/device/data",
+    "event": {
+      "event_name": "congestionamento_benigno",
+      "event_type": "transient",
+      "delay_profiles": [
+        {
+          "probability": 70,
+          "min": 0.3,
+          "max": 1.0
+        },
+        {
+          "probability": 30,
+          "min": 1.0,
+          "max": 2.5
+        }
+      ],
+      "drop_percentage": 47.6,
+      "transition_duration_s": 0,
+      "transient_event_duration_s": 70,
+      "transient_event_return_s": 0
+    }
+  }
+]

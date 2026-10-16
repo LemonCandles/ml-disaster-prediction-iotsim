@@ -1,0 +1,10 @@
+{
+  "gw01-d01": "controle",
+  "gw01-d02": "degradacao",
+  "gw01-d03": "falha_energetica",
+  "gw01-d04": "controle",
+  "gw02-d01": "degradacao",
+  "gw02-d02": "degradacao",
+  "gw02-d03": "falha_energetica",
+  "gw02-d04": "controle"
+}

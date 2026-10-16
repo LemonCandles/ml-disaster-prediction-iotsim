@@ -1,0 +1,275 @@
+{
+  "scenario_id": "evento_termico_v2",
+  "semente_base": 20261015,
+  "escala_tempo": 1.0,
+  "execucoes": [
+    {
+      "execucao": "execucao_01",
+      "semente": 20261016,
+      "com_desastre": true,
+      "sensores": 10,
+      "sensores_por_gateway": {
+        "gw01": 4,
+        "gw02": 6
+      },
+      "intensidade": 1.239,
+      "duracoes_s": {
+        "normal": 360,
+        "pre_desastre": 300,
+        "desastre": 360,
+        "pos_desastre": 300
+      },
+      "transicoes_s": {
+        "pre_desastre": 138,
+        "desastre": 35,
+        "pos_desastre": 142
+      },
+      "epicentro": {
+        "latitude": -18.922194,
+        "longitude": -48.270576
+      },
+      "papeis": {
+        "controle": 2,
+        "degradacao": 7,
+        "falha_energetica": 0,
+        "falha_rede": 1
+      },
+      "eventos": 28,
+      "eventos_benignos": 3,
+      "duracao_total_s": 1320
+    },
+    {
+      "execucao": "execucao_02",
+      "semente": 20261017,
+      "com_desastre": true,
+      "sensores": 10,
+      "sensores_por_gateway": {
+        "gw01": 5,
+        "gw02": 5
+      },
+      "intensidade": 0.878,
+      "duracoes_s": {
+        "normal": 270,
+        "pre_desastre": 300,
+        "desastre": 330,
+        "pos_desastre": 360
+      },
+      "transicoes_s": {
+        "pre_desastre": 126,
+        "desastre": 27,
+        "pos_desastre": 138
+      },
+      "epicentro": {
+        "latitude": -18.921582,
+        "longitude": -48.270461
+      },
+      "papeis": {
+        "controle": 5,
+        "degradacao": 3,
+        "falha_energetica": 1,
+        "falha_rede": 1
+      },
+      "eventos": 18,
+      "eventos_benignos": 2,
+      "duracao_total_s": 1260
+    },
+    {
+      "execucao": "execucao_03",
+      "semente": 20261018,
+      "com_desastre": true,
+      "sensores": 8,
+      "sensores_por_gateway": {
+        "gw01": 4,
+        "gw02": 4
+      },
+      "intensidade": 0.924,
+      "duracoes_s": {
+        "normal": 240,
+        "pre_desastre": 270,
+        "desastre": 330,
+        "pos_desastre": 270
+      },
+      "transicoes_s": {
+        "pre_desastre": 111,
+        "desastre": 20,
+        "pos_desastre": 107
+      },
+      "epicentro": {
+        "latitude": -18.922242,
+        "longitude": -48.271938
+      },
+      "papeis": {
+        "controle": 3,
+        "degradacao": 3,
+        "falha_energetica": 2,
+        "falha_rede": 0
+      },
+      "eventos": 18,
+      "eventos_benignos": 3,
+      "duracao_total_s": 1110
+    },
+    {
+      "execucao": "execucao_04",
+      "semente": 20261019,
+      "com_desastre": true,
+      "sensores": 11,
+      "sensores_por_gateway": {
+        "gw01": 6,
+        "gw02": 5
+      },
+      "intensidade": 0.755,
+      "duracoes_s": {
+        "normal": 300,
+        "pre_desastre": 330,
+        "desastre": 330,
+        "pos_desastre": 270
+      },
+      "transicoes_s": {
+        "pre_desastre": 201,
+        "desastre": 43,
+        "pos_desastre": 126
+      },
+      "epicentro": {
+        "latitude": -18.921649,
+        "longitude": -48.275739
+      },
+      "papeis": {
+        "controle": 5,
+        "degradacao": 4,
+        "falha_energetica": 1,
+        "falha_rede": 1
+      },
+      "eventos": 19,
+      "eventos_benignos": 0,
+      "duracao_total_s": 1230
+    },
+    {
+      "execucao": "execucao_05",
+      "semente": 20261020,
+      "com_desastre": true,
+      "sensores": 10,
+      "sensores_por_gateway": {
+        "gw01": 5,
+        "gw02": 5
+      },
+      "intensidade": 1.292,
+      "duracoes_s": {
+        "normal": 270,
+        "pre_desastre": 300,
+        "desastre": 360,
+        "pos_desastre": 330
+      },
+      "transicoes_s": {
+        "pre_desastre": 171,
+        "desastre": 29,
+        "pos_desastre": 61
+      },
+      "epicentro": {
+        "latitude": -18.919189,
+        "longitude": -48.276813
+      },
+      "papeis": {
+        "controle": 3,
+        "degradacao": 4,
+        "falha_energetica": 1,
+        "falha_rede": 2
+      },
+      "eventos": 25,
+      "eventos_benignos": 2,
+      "duracao_total_s": 1260
+    },
+    {
+      "execucao": "execucao_06",
+      "semente": 20261021,
+      "com_desastre": true,
+      "sensores": 12,
+      "sensores_por_gateway": {
+        "gw01": 6,
+        "gw02": 6
+      },
+      "intensidade": 0.754,
+      "duracoes_s": {
+        "normal": 270,
+        "pre_desastre": 270,
+        "desastre": 300,
+        "pos_desastre": 270
+      },
+      "transicoes_s": {
+        "pre_desastre": 137,
+        "desastre": 40,
+        "pos_desastre": 150
+      },
+      "epicentro": {
+        "latitude": -18.922079,
+        "longitude": -48.273372
+      },
+      "papeis": {
+        "controle": 6,
+        "degradacao": 3,
+        "falha_energetica": 1,
+        "falha_rede": 2
+      },
+      "eventos": 21,
+      "eventos_benignos": 1,
+      "duracao_total_s": 1110
+    },
+    {
+      "execucao": "execucao_07",
+      "semente": 20261022,
+      "com_desastre": true,
+      "sensores": 11,
+      "sensores_por_gateway": {
+        "gw01": 6,
+        "gw02": 5
+      },
+      "intensidade": 1.084,
+      "duracoes_s": {
+        "normal": 330,
+        "pre_desastre": 210,
+        "desastre": 330,
+        "pos_desastre": 300
+      },
+      "transicoes_s": {
+        "pre_desastre": 125,
+        "desastre": 42,
+        "pos_desastre": 100
+      },
+      "epicentro": {
+        "latitude": -18.92037,
+        "longitude": -48.270505
+      },
+      "papeis": {
+        "controle": 3,
+        "degradacao": 6,
+        "falha_energetica": 1,
+        "falha_rede": 1
+      },
+      "eventos": 26,
+      "eventos_benignos": 1,
+      "duracao_total_s": 1170
+    },
+    {
+      "execucao": "execucao_08",
+      "semente": 20261023,
+      "com_desastre": false,
+      "sensores": 11,
+      "sensores_por_gateway": {
+        "gw01": 5,
+        "gw02": 6
+      },
+      "intensidade": null,
+      "duracoes_s": {
+        "normal": 1200
+      },
+      "papeis": {
+        "controle": 11,
+        "degradacao": 0,
+        "falha_energetica": 0,
+        "falha_rede": 0
+      },
+      "eventos": 3,
+      "eventos_benignos": 3,
+      "duracao_total_s": 1200
+    }
+  ]
+}

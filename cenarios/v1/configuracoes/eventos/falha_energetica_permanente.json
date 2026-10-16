@@ -1,0 +1,7 @@
+{
+  "event_name": "falha_energetica_permanente",
+  "event_type": "permanent",
+  "battery_idle_discharge": 120.0,
+  "delay_profiles": [],
+  "transition_duration_s": 0
+}

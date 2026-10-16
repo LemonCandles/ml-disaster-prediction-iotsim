@@ -1,0 +1,9 @@
+{
+  "devices": [
+    "coap://127.0.0.1:9501/device/data",
+    "coap://127.0.0.1:9502/device/data",
+    "coap://127.0.0.1:9503/device/data",
+    "coap://127.0.0.1:9504/device/data",
+    "coap://127.0.0.1:9505/device/data"
+  ]
+}

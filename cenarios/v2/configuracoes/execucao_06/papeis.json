@@ -1,0 +1,14 @@
+{
+  "gw01-d01": "degradacao",
+  "gw01-d02": "controle",
+  "gw01-d03": "controle",
+  "gw01-d04": "controle",
+  "gw01-d05": "degradacao",
+  "gw01-d06": "falha_rede",
+  "gw02-d01": "falha_rede",
+  "gw02-d02": "falha_energetica",
+  "gw02-d03": "controle",
+  "gw02-d04": "controle",
+  "gw02-d05": "controle",
+  "gw02-d06": "degradacao"
+}

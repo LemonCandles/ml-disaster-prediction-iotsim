@@ -1,0 +1,37 @@
+{
+  "uuid": "3ba95afa-98fb-5c28-b229-d2b3b79d8c5a",
+  "server_host": "127.0.0.1",
+  "server_port": 9605,
+  "resource_path": [
+    "device",
+    "data"
+  ],
+  "coordinate": {
+    "latitude": -18.921432,
+    "longitude": -48.274762
+  },
+  "battery_charge": 71.19,
+  "temperature_range": [
+    19.2,
+    31.2
+  ],
+  "pressure_range": [
+    1000.0,
+    1020.0
+  ],
+  "battery_transmit_discharge": 0.0131,
+  "battery_idle_discharge": 0.0117,
+  "drop_percentage": 1.0,
+  "delay_profiles": [
+    {
+      "probability": 90,
+      "min": 0.02,
+      "max": 0.12
+    },
+    {
+      "probability": 10,
+      "min": 0.12,
+      "max": 0.5
+    }
+  ]
+}

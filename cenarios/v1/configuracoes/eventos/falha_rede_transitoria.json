@@ -1,0 +1,9 @@
+{
+  "event_name": "falha_rede_transitoria",
+  "event_type": "transient",
+  "drop_percentage": 100.0,
+  "delay_profiles": [],
+  "transition_duration_s": 0,
+  "transient_event_duration_s": 60,
+  "transient_event_return_s": 0
+}

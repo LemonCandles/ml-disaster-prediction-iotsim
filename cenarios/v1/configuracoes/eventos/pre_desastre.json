@@ -1,0 +1,28 @@
+{
+  "event_name": "pre_desastre",
+  "event_type": "permanent",
+  "temperature_range": [
+    26.0,
+    40.0
+  ],
+  "pressure_range": [
+    1000.0,
+    1020.0
+  ],
+  "battery_transmit_discharge": 0.06,
+  "battery_idle_discharge": 0.2,
+  "drop_percentage": 8.0,
+  "delay_profiles": [
+    {
+      "probability": 80,
+      "min": 0.1,
+      "max": 0.6
+    },
+    {
+      "probability": 20,
+      "min": 0.6,
+      "max": 1.5
+    }
+  ],
+  "transition_duration_s": 180
+}
