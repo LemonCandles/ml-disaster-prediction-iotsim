@@ -1,0 +1,5 @@
+Sent event to coap://127.0.0.1:9805/device/data: 2.01 Created
+Sent event to coap://127.0.0.1:9856/device/data: 2.01 Created
+Connection loss was not expected.
+Connection loss was not expected.
+Sent event to coap://127.0.0.1:9854/device/data: 2.01 Created

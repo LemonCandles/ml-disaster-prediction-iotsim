@@ -1,0 +1,267 @@
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7101/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7105/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7105/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] Timeout requesting coap://127.0.0.1:7102/device/data (>15.00s)
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] Timeout requesting coap://127.0.0.1:7103/device/data (>15.00s)
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] Timeout requesting coap://127.0.0.1:7104/device/data (>15.00s)
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:7101/device/data
+MQTT publish error: [code:4] The client is not currently connected.
+[MQTT Worker] Failed to publish: [code:4] The client is not currently connected.

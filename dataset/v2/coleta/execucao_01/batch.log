@@ -1,0 +1,174 @@
+2026-10-15 14:13:54,426 [iot-sim-batch] INFO starting 10 device(s) ...
+2026-10-15 14:13:54,430 [iot-sim-batch] INFO coap://127.0.0.1:9101/device/data  uuid=7fea2fcb-bb7d-57a6-a788-d9a06e91201f
+2026-10-15 14:13:54,431 [iot-sim-batch] INFO coap://127.0.0.1:9102/device/data  uuid=4df89b2d-dd89-51f3-8b85-a957c150dbd1
+2026-10-15 14:13:54,431 [iot-sim-batch] INFO coap://127.0.0.1:9103/device/data  uuid=c33889f3-ec3f-5ded-9506-4ec94c9e9c2d
+2026-10-15 14:13:54,431 [iot-sim-batch] INFO coap://127.0.0.1:9104/device/data  uuid=b8ea86c1-88d3-55db-8885-01d0c46d43ef
+2026-10-15 14:13:54,432 [iot-sim-batch] INFO coap://127.0.0.1:9151/device/data  uuid=ea69d454-788b-506d-9bda-d468fac6767a
+2026-10-15 14:13:54,432 [iot-sim-batch] INFO coap://127.0.0.1:9152/device/data  uuid=afa0ab03-72b6-51b6-8729-c3688e1e40bd
+2026-10-15 14:13:54,432 [iot-sim-batch] INFO coap://127.0.0.1:9153/device/data  uuid=56a5d29c-c1cb-5a01-9f4f-4625c1327396
+2026-10-15 14:13:54,432 [iot-sim-batch] INFO coap://127.0.0.1:9154/device/data  uuid=882452e6-797d-5c19-b84d-c7e6e8f8133e
+2026-10-15 14:13:54,432 [iot-sim-batch] INFO coap://127.0.0.1:9155/device/data  uuid=5a0c2764-7734-58ca-9072-6edb35ec6077
+2026-10-15 14:13:54,433 [iot-sim-batch] INFO coap://127.0.0.1:9156/device/data  uuid=1bf54848-1c6c-5a12-9e98-ef63474fca43
+2026-10-15 14:13:54,433 [iot-sim-batch] INFO all 10 device(s) listening
+2026-10-15 14:15:32,551 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='aquecimento_local_benigno' event_type='transient' temperature_range=(29.7, 41.4) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.0063 battery_idle_discharge=0.0285 drop_percentage=1.0 delay_profiles=[] coordinate={} transition_duration_s=10.0 transient_event_duration_s=59.0 transient_event_return_s=10.0
+2026-10-15 14:15:32,551 [iot-sim] INFO 
+🌪️ Starting gradual transition to aquecimento_local_benigno mode over 10.0s...
+2026-10-15 14:15:39,469 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='congestionamento_benigno' event_type='transient' temperature_range=(20.1, 31.9) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.006 battery_idle_discharge=0.0217 drop_percentage=47.2 delay_profiles=[{'probability': 70, 'min': 0.3, 'max': 1.0}, {'probability': 30, 'min': 1.0, 'max': 2.5}] coordinate={} transition_duration_s=0.0 transient_event_duration_s=79.0 transient_event_return_s=0.0
+2026-10-15 14:15:39,470 [iot-sim] INFO 
+🌪️ Starting gradual transition to congestionamento_benigno mode over 0.0s...
+2026-10-15 14:15:39,470 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **congestionamento_benigno** mode.
+2026-10-15 14:15:39,470 [iot-sim] INFO ⏳ Transient event active for 79.0 seconds...
+2026-10-15 14:15:42,567 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **aquecimento_local_benigno** mode.
+2026-10-15 14:15:42,567 [iot-sim] INFO ⏳ Transient event active for 59.0 seconds...
+2026-10-15 14:16:41,568 [iot-sim] INFO 🔄 Returning to previous event over 10.0 seconds...
+2026-10-15 14:16:41,569 [iot-sim] INFO 
+🌪️ Starting gradual transition to Normal mode over 10.0s...
+2026-10-15 14:16:51,583 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **Normal** mode.
+2026-10-15 14:16:58,473 [iot-sim] INFO 🔄 Returning to previous event over 0.0 seconds...
+2026-10-15 14:16:58,474 [iot-sim] INFO 
+🌪️ Starting gradual transition to Normal mode over 0.0s...
+2026-10-15 14:16:58,474 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **Normal** mode.
+2026-10-15 14:17:10,528 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='congestionamento_benigno' event_type='transient' temperature_range=(19.9, 31.9) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.0092 battery_idle_discharge=0.0112 drop_percentage=50.7 delay_profiles=[{'probability': 70, 'min': 0.3, 'max': 1.0}, {'probability': 30, 'min': 1.0, 'max': 2.5}] coordinate={} transition_duration_s=0.0 transient_event_duration_s=73.0 transient_event_return_s=0.0
+2026-10-15 14:17:10,529 [iot-sim] INFO 
+🌪️ Starting gradual transition to congestionamento_benigno mode over 0.0s...
+2026-10-15 14:17:10,529 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **congestionamento_benigno** mode.
+2026-10-15 14:17:10,529 [iot-sim] INFO ⏳ Transient event active for 73.0 seconds...
+2026-10-15 14:18:23,531 [iot-sim] INFO 🔄 Returning to previous event over 0.0 seconds...
+2026-10-15 14:18:23,532 [iot-sim] INFO 
+🌪️ Starting gradual transition to Normal mode over 0.0s...
+2026-10-15 14:18:23,532 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **Normal** mode.
+2026-10-15 14:20:11,542 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.3, 40.5) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.064 battery_idle_discharge=0.214 drop_percentage=8.5 delay_profiles=[{'probability': 80, 'min': 0.107, 'max': 0.641}, {'probability': 20, 'min': 0.641, 'max': 1.602}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,544 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,545 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(27.4, 42.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.081 battery_idle_discharge=0.269 drop_percentage=10.8 delay_profiles=[{'probability': 80, 'min': 0.135, 'max': 0.808}, {'probability': 20, 'min': 0.808, 'max': 2.021}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,546 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(27.6, 43.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.083 battery_idle_discharge=0.278 drop_percentage=11.1 delay_profiles=[{'probability': 80, 'min': 0.139, 'max': 0.834}, {'probability': 20, 'min': 0.834, 'max': 2.085}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,546 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.8, 41.6) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.072 battery_idle_discharge=0.241 drop_percentage=9.6 delay_profiles=[{'probability': 80, 'min': 0.12, 'max': 0.722}, {'probability': 20, 'min': 0.722, 'max': 1.804}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,548 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,548 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,548 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,549 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(27.7, 43.3) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.085 battery_idle_discharge=0.283 drop_percentage=11.3 delay_profiles=[{'probability': 80, 'min': 0.141, 'max': 0.848}, {'probability': 20, 'min': 0.848, 'max': 2.121}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,549 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.9, 41.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.074 battery_idle_discharge=0.246 drop_percentage=9.8 delay_profiles=[{'probability': 80, 'min': 0.123, 'max': 0.739}, {'probability': 20, 'min': 0.739, 'max': 1.847}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,550 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(27.6, 43.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.084 battery_idle_discharge=0.279 drop_percentage=11.1 delay_profiles=[{'probability': 80, 'min': 0.139, 'max': 0.836}, {'probability': 20, 'min': 0.836, 'max': 2.09}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,551 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(27.6, 43.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.084 battery_idle_discharge=0.28 drop_percentage=11.2 delay_profiles=[{'probability': 80, 'min': 0.14, 'max': 0.839}, {'probability': 20, 'min': 0.839, 'max': 2.099}] coordinate={} transition_duration_s=138.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,551 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,551 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,551 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:20:11,552 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 138.0s...
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,768 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,769 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:29,769 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:25:11,475 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(36.8, 57.6) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.135 battery_idle_discharge=5.388 drop_percentage=47.1 delay_profiles=[{'probability': 75, 'min': 1.078, 'max': 2.425}, {'probability': 25, 'min': 2.694, 'max': 5.388}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,476 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,478 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(37.1, 58.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.139 battery_idle_discharge=5.56 drop_percentage=48.6 delay_profiles=[{'probability': 75, 'min': 1.112, 'max': 2.502}, {'probability': 25, 'min': 2.78, 'max': 5.56}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,481 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,482 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(35.8, 55.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.123 battery_idle_discharge=4.924 drop_percentage=43.1 delay_profiles=[{'probability': 75, 'min': 0.985, 'max': 2.216}, {'probability': 25, 'min': 2.462, 'max': 4.924}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,483 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(35.6, 55.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.12 battery_idle_discharge=4.812 drop_percentage=42.1 delay_profiles=[{'probability': 75, 'min': 0.962, 'max': 2.165}, {'probability': 25, 'min': 2.406, 'max': 4.812}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,483 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(37.3, 58.6) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.141 battery_idle_discharge=5.656 drop_percentage=49.5 delay_profiles=[{'probability': 75, 'min': 1.131, 'max': 2.545}, {'probability': 25, 'min': 2.828, 'max': 5.656}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,484 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(37.2, 58.4) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.14 battery_idle_discharge=5.596 drop_percentage=49.0 delay_profiles=[{'probability': 75, 'min': 1.119, 'max': 2.518}, {'probability': 25, 'min': 2.798, 'max': 5.596}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,485 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,485 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,485 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,486 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,486 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.5, 53.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.107 battery_idle_discharge=4.272 drop_percentage=37.4 delay_profiles=[{'probability': 75, 'min': 0.854, 'max': 1.922}, {'probability': 25, 'min': 2.136, 'max': 4.272}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,487 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(37.1, 58.3) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.139 battery_idle_discharge=5.572 drop_percentage=48.8 delay_profiles=[{'probability': 75, 'min': 1.114, 'max': 2.507}, {'probability': 25, 'min': 2.786, 'max': 5.572}] coordinate={} transition_duration_s=35.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:11,488 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:11,488 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 35.0s...
+2026-10-15 14:25:46,530 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,531 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:46,532 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:26:18,535 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='falha_rede_transitoria' event_type='transient' temperature_range=(37.3, 58.6) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.141 battery_idle_discharge=5.656 drop_percentage=100.0 delay_profiles=[] coordinate={} transition_duration_s=0.0 transient_event_duration_s=63.0 transient_event_return_s=0.0
+2026-10-15 14:26:18,536 [iot-sim] INFO 
+🌪️ Starting gradual transition to falha_rede_transitoria mode over 0.0s...
+2026-10-15 14:26:18,536 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **falha_rede_transitoria** mode.
+2026-10-15 14:26:18,536 [iot-sim] INFO ⏳ Transient event active for 63.0 seconds...
+2026-10-15 14:27:21,539 [iot-sim] INFO 🔄 Returning to previous event over 0.0 seconds...
+2026-10-15 14:27:21,540 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 0.0s...
+2026-10-15 14:27:21,540 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:31:11,595 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(27.0, 42.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=14.0 delay_profiles=[{'probability': 70, 'min': 0.21, 'max': 0.839}, {'probability': 30, 'min': 0.839, 'max': 1.959}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,608 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,609 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(27.1, 42.3) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=14.1 delay_profiles=[{'probability': 70, 'min': 0.212, 'max': 0.848}, {'probability': 30, 'min': 0.848, 'max': 1.98}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,610 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(26.0, 40.6) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=12.0 delay_profiles=[{'probability': 70, 'min': 0.18, 'max': 0.722}, {'probability': 30, 'min': 0.722, 'max': 1.684}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,611 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.3, 39.5) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.7 delay_profiles=[{'probability': 70, 'min': 0.16, 'max': 0.641}, {'probability': 30, 'min': 0.641, 'max': 1.495}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,612 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(26.2, 40.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=12.3 delay_profiles=[{'probability': 70, 'min': 0.185, 'max': 0.739}, {'probability': 30, 'min': 0.739, 'max': 1.723}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,613 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,613 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,614 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,614 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,614 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(26.7, 41.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=13.5 delay_profiles=[{'probability': 70, 'min': 0.202, 'max': 0.808}, {'probability': 30, 'min': 0.808, 'max': 1.886}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,615 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(26.9, 42.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=13.9 delay_profiles=[{'probability': 70, 'min': 0.208, 'max': 0.834}, {'probability': 30, 'min': 0.834, 'max': 1.946}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,616 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(27.0, 42.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=13.9 delay_profiles=[{'probability': 70, 'min': 0.209, 'max': 0.836}, {'probability': 30, 'min': 0.836, 'max': 1.95}] coordinate={} transition_duration_s=142.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:31:11,617 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,617 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:31:11,617 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 142.0s...
+2026-10-15 14:33:33,839 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,845 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,845 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,846 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,846 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,846 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,846 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:33:33,846 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:36:33,157 [iot-sim-batch] INFO shutting down batch server ...
+2026-10-15 14:36:33,167 [iot-sim-batch] INFO all 10 device(s) shut down

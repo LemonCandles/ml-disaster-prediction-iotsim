@@ -1,0 +1,164 @@
+{
+  "status": "concluida",
+  "scenario_id": "evento_termico_v1",
+  "metodo": "iot-sim-batch + iot-gw (-i 5000, MQTT) + ev-man, conforme Manual_IoTEventSim.pdf; t0 registrado imediatamente antes do ev-man",
+  "drop_window_attempts": 12,
+  "battery_rate_min_gap_s": 60,
+  "runs": 1,
+  "row_count": 2062,
+  "rows_by_class": {
+    "normal": 586,
+    "pre_desastre": 539,
+    "desastre": 436,
+    "pos_desastre": 501
+  },
+  "dataset_sha256": "d2f9d7e54f754ca6c085778a8cb9d12ab4e0deb87b3dd511fbbbe03a7399f2bf",
+  "organizer_sha256": "f51f09d1548973231dfb9f3ffa5f5b86af06fe9044104f950308b7ef2ec8a391",
+  "python_version": "3.14.8",
+  "executions": [
+    {
+      "run_id": "execucao-1792081791860377862",
+      "config": "cenarios/v1/configuracoes",
+      "coleta": "dataset/v1/coleta",
+      "status": "concluida",
+      "t0_ns": 1792081791860377862,
+      "start_utc": "2026-10-15T16:29:51.860378+00:00",
+      "duration_s": 1200.0,
+      "phases": {
+        "normal": [
+          0.0,
+          300.0
+        ],
+        "pre_desastre": [
+          300.0,
+          600.0
+        ],
+        "desastre": [
+          600.0,
+          900.0
+        ],
+        "pos_desastre": [
+          900.0,
+          1200.0
+        ]
+      },
+      "devices": 10,
+      "roles": {
+        "falha_energetica": 2,
+        "falha_rede": 2,
+        "degradacao": 4,
+        "controle": 2
+      },
+      "row_count": 2062,
+      "excluded_rows": {
+        "antes_de_t0": 22,
+        "depois_do_fim": 89
+      },
+      "events_accepted": 26,
+      "events_expected": 26,
+      "event_send_failures": [],
+      "other_evman_messages": {
+        "Connection loss was not expected.": 8
+      },
+      "events_logged_by_devices": {
+        "pre_desastre": 8,
+        "desastre": 8,
+        "falha_energetica_permanente": 2,
+        "falha_rede_transitoria": 2,
+        "pos_desastre": 6
+      },
+      "battery_depletions_logged": 2,
+      "battery_depletions_planned": 2,
+      "gateway_failures_by_type": {
+        "timeout": 174,
+        "5.03": 223
+      },
+      "checks": {
+        "eventos_aceitos_2_01": true,
+        "eventos_registrados_pelos_sensores": true,
+        "eventos_recebidos_em_ate_1s": true,
+        "coleta_cobre_todo_o_ciclo": true,
+        "classes_esperadas": true,
+        "todos_os_dispositivos": true,
+        "nenhuma_tentativa_perdida_no_ciclo": true,
+        "falha_energetica_permanente": true,
+        "falha_rede_transitoria": true,
+        "controles_normais": true
+      },
+      "check_details": {
+        "max_event_receipt_offset_s": 0.314622163772583,
+        "energy_failure_devices": 2,
+        "network_failure_devices": 2,
+        "control_devices": 2,
+        "initial_attempts_not_logged": {}
+      },
+      "summary_by_class": {
+        "normal": {
+          "rows": 586,
+          "available": 579,
+          "unavailable": 7,
+          "crossed_phase": 0,
+          "in_transition": 0,
+          "mean_temperature_c": 25.942897853759757,
+          "mean_latency_ms": 94.73226482210708
+        },
+        "pre_desastre": {
+          "rows": 539,
+          "available": 506,
+          "unavailable": 33,
+          "crossed_phase": 1,
+          "in_transition": 340,
+          "mean_temperature_c": 29.559705138664544,
+          "mean_latency_ms": 294.3939655988142
+        },
+        "desastre": {
+          "rows": 436,
+          "available": 278,
+          "unavailable": 158,
+          "crossed_phase": 1,
+          "in_transition": 45,
+          "mean_temperature_c": 35.317324976616135,
+          "mean_latency_ms": 989.419457852518
+        },
+        "pos_desastre": {
+          "rows": 501,
+          "available": 334,
+          "unavailable": 167,
+          "crossed_phase": 0,
+          "in_transition": 185,
+          "mean_temperature_c": 31.177783236426436,
+          "mean_latency_ms": 499.5763419191617
+        }
+      },
+      "sources_sha256": {
+        "dataset/v1/coleta/logs/gw-20261015-132940.csv": "80f1203ccca49ff56b84b2d887def9f644c08f42ce21d5cd64639dd595069866",
+        "dataset/v1/coleta/logs/gw-20261015-132942.csv": "a59c71cc6b51470ccaa57b362532432d0635bfb4479cef25286734cdda253a57",
+        "dataset/v1/coleta/t0_ns.txt": "b487e3c20d0041ee86a4a92d19615a635e6598f78f77eb9567b6759da8516a8b",
+        "dataset/v1/coleta/evman.log": "183c75d3532d5b041e36746fe8b8b560b91da26558bb91698e1968b04835f3f1",
+        "dataset/v1/coleta/batch.log": "af81ba84eec1a1652ce73b16dee824ea11c42253a21f49c28978568807a9e45d",
+        "dataset/v1/coleta/gw01.log": "cadf6954ba1b5a0df1111474e748ec2efb4cce45b941d8c88e594033c24f43d3",
+        "dataset/v1/coleta/gw02.log": "9170de9a88ea2b14380842d504b5c53eb3537cc67bde3beef4e30983b5e9fd16",
+        "cenarios/v1/configuracoes/agendamentos/ciclo_completo.json": "e3c250561db92df04409624251b7e3254396eb9736f9cae1809cabd967613f5b",
+        "cenarios/v1/configuracoes/dispositivos/gw01-d01.json": "33358ac791738f9949d6a06f1c5c04e1ad28ab8043a7a90b92a71bd20814ee71",
+        "cenarios/v1/configuracoes/dispositivos/gw01-d02.json": "eee5a202411ab8af2767340b3a968029719b1405eba29afda5d7a37003e88601",
+        "cenarios/v1/configuracoes/dispositivos/gw01-d03.json": "4d74c0c54dc143dfbb6abbc7df2a8510c2f30eb17daddf5b803304a24beb1631",
+        "cenarios/v1/configuracoes/dispositivos/gw01-d04.json": "4488f5027f5cb91649adcedb5975e28b6bc16df9a8ab10961d9d7f534cba44eb",
+        "cenarios/v1/configuracoes/dispositivos/gw01-d05.json": "3b6747eae4ef9493ef022047e110d16a2da4759ffc57ad2aefd7d9539b3debea",
+        "cenarios/v1/configuracoes/dispositivos/gw02-d01.json": "2d8df075aa6c10177e03ff0cb9947a788e715fc1b639af7f58009dcc0af0562b",
+        "cenarios/v1/configuracoes/dispositivos/gw02-d02.json": "7571d64ad45a8c8ea513ec84eec9ddc4595e648238089f5161de85ed72c43308",
+        "cenarios/v1/configuracoes/dispositivos/gw02-d03.json": "644110542b561eef1541a28835de0e950a905678d9c8b8f1d077abed4358c493",
+        "cenarios/v1/configuracoes/dispositivos/gw02-d04.json": "e8c6c0d161e8451bd0fced4e3c2a89eba709abea74929f84b51c3120e44971a6",
+        "cenarios/v1/configuracoes/dispositivos/gw02-d05.json": "cdb0f9f3d4f24c6449d5db7f3daccd7777325ed70c15181af12bc11a446f989f",
+        "cenarios/v1/configuracoes/eventos/desastre.json": "77055f19b3128e97580bc1a35a3213589c6fb2b6073ead3fb6fbc69ac4f1f2c5",
+        "cenarios/v1/configuracoes/eventos/falha_energetica_permanente.json": "a43689c40685a004192167fbf8503eb36adea5767a573a7c1c24aa7c4ec4645a",
+        "cenarios/v1/configuracoes/eventos/falha_rede_transitoria.json": "e646bd33fd3043805353ec3e5ecffee453165ab2b9c862984684f02ed1abfa25",
+        "cenarios/v1/configuracoes/eventos/pos_desastre.json": "37ef6bd42a00f4f83a51c7520addd5c38a47dc621553892dd361a8147a5b009f",
+        "cenarios/v1/configuracoes/eventos/pre_desastre.json": "413eef3a0e16b60d232c44c91b8cc3f0f880582804f9c0271e2c2fff4b1db836",
+        "cenarios/v1/configuracoes/gateways/gw01.json": "5d9fa51254d8818f48c9b778d37553a9646230e1806e2660ca96a0f7c6b56972",
+        "cenarios/v1/configuracoes/gateways/gw02.json": "d8bba9e7eb47606a5a860e33058f9a9a8032dca23a3f3b7f4ec69b3c16748b89",
+        "cenarios/v1/configuracoes/papeis.json": "ed6decb02db55a7d5b902dcac6979ba5879f3efd77490f96df9e114e3d47e07d",
+        "cenarios/v1/tabela_parametros.csv": "3d0ae2d35957775d098368b7a3174b1477c1476e1744bad2d6f46a22e5bea77d"
+      }
+    }
+  ]
+}

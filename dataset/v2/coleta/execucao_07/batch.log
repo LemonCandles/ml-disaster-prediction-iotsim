@@ -1,0 +1,261 @@
+2026-10-15 14:14:24,465 [iot-sim-batch] INFO starting 11 device(s) ...
+2026-10-15 14:14:24,472 [iot-sim-batch] INFO coap://127.0.0.1:9701/device/data  uuid=0a0cf3b3-4736-5ec2-a989-858588111c19
+2026-10-15 14:14:24,473 [iot-sim-batch] INFO coap://127.0.0.1:9702/device/data  uuid=94e9e9a2-8d15-5aa5-b15a-87ececdedb95
+2026-10-15 14:14:24,474 [iot-sim-batch] INFO coap://127.0.0.1:9703/device/data  uuid=80b5c412-cd26-55fc-acad-042f1c47a10b
+2026-10-15 14:14:24,475 [iot-sim-batch] INFO coap://127.0.0.1:9704/device/data  uuid=425860bf-b19e-5acf-bd24-29a26b8f9fbb
+2026-10-15 14:14:24,475 [iot-sim-batch] INFO coap://127.0.0.1:9705/device/data  uuid=88ff9f03-809d-5c3d-96a8-1ae3bc915809
+2026-10-15 14:14:24,476 [iot-sim-batch] INFO coap://127.0.0.1:9706/device/data  uuid=d3d20b6c-38bf-563b-a66b-83dbd4418af8
+2026-10-15 14:14:24,477 [iot-sim-batch] INFO coap://127.0.0.1:9751/device/data  uuid=fc409072-45dc-56b8-91e4-e40ddf994087
+2026-10-15 14:14:24,477 [iot-sim-batch] INFO coap://127.0.0.1:9752/device/data  uuid=4d2d8da4-350f-5dfa-ac7c-45f83f742e1e
+2026-10-15 14:14:24,478 [iot-sim-batch] INFO coap://127.0.0.1:9753/device/data  uuid=b4c60f71-3160-5efd-881d-4ff41d9c8e93
+2026-10-15 14:14:24,478 [iot-sim-batch] INFO coap://127.0.0.1:9754/device/data  uuid=dd932335-b20f-57bc-804b-6dff5aa8d13e
+2026-10-15 14:14:24,479 [iot-sim-batch] INFO coap://127.0.0.1:9755/device/data  uuid=29e05ebe-9e2b-5b7f-8707-ceab5838b3dd
+2026-10-15 14:14:24,479 [iot-sim-batch] INFO all 11 device(s) listening
+2026-10-15 14:17:34,572 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='congestionamento_benigno' event_type='transient' temperature_range=(20.3, 32.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.0112 battery_idle_discharge=0.0248 drop_percentage=43.0 delay_profiles=[{'probability': 70, 'min': 0.3, 'max': 1.0}, {'probability': 30, 'min': 1.0, 'max': 2.5}] coordinate={} transition_duration_s=0.0 transient_event_duration_s=71.0 transient_event_return_s=0.0
+2026-10-15 14:17:34,573 [iot-sim] INFO 
+🌪️ Starting gradual transition to congestionamento_benigno mode over 0.0s...
+2026-10-15 14:17:34,573 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **congestionamento_benigno** mode.
+2026-10-15 14:17:34,573 [iot-sim] INFO ⏳ Transient event active for 71.0 seconds...
+2026-10-15 14:18:45,574 [iot-sim] INFO 🔄 Returning to previous event over 0.0 seconds...
+2026-10-15 14:18:45,574 [iot-sim] INFO 
+🌪️ Starting gradual transition to Normal mode over 0.0s...
+2026-10-15 14:18:45,574 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **Normal** mode.
+2026-10-15 14:20:11,585 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.0, 40.0) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.06 battery_idle_discharge=0.201 drop_percentage=8.0 delay_profiles=[{'probability': 80, 'min': 0.1, 'max': 0.603}, {'probability': 20, 'min': 0.603, 'max': 1.507}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,586 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,587 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.4, 40.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.065 battery_idle_discharge=0.218 drop_percentage=8.7 delay_profiles=[{'probability': 80, 'min': 0.109, 'max': 0.653}, {'probability': 20, 'min': 0.653, 'max': 1.633}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,588 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.5, 41.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.068 battery_idle_discharge=0.227 drop_percentage=9.1 delay_profiles=[{'probability': 80, 'min': 0.114, 'max': 0.682}, {'probability': 20, 'min': 0.682, 'max': 1.706}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,590 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,590 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,591 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.0, 40.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.061 battery_idle_discharge=0.202 drop_percentage=8.1 delay_profiles=[{'probability': 80, 'min': 0.101, 'max': 0.607}, {'probability': 20, 'min': 0.607, 'max': 1.518}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,592 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.2, 40.4) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.063 battery_idle_discharge=0.21 drop_percentage=8.4 delay_profiles=[{'probability': 80, 'min': 0.105, 'max': 0.631}, {'probability': 20, 'min': 0.631, 'max': 1.576}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,593 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.4, 40.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.065 battery_idle_discharge=0.218 drop_percentage=8.7 delay_profiles=[{'probability': 80, 'min': 0.109, 'max': 0.653}, {'probability': 20, 'min': 0.653, 'max': 1.633}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,593 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.5, 41.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.068 battery_idle_discharge=0.226 drop_percentage=9.1 delay_profiles=[{'probability': 80, 'min': 0.113, 'max': 0.679}, {'probability': 20, 'min': 0.679, 'max': 1.698}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,594 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pre_desastre' event_type='permanent' temperature_range=(26.3, 40.5) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.064 battery_idle_discharge=0.214 drop_percentage=8.5 delay_profiles=[{'probability': 80, 'min': 0.107, 'max': 0.641}, {'probability': 20, 'min': 0.641, 'max': 1.602}] coordinate={} transition_duration_s=125.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:20:11,595 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,595 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,595 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,595 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:20:11,596 [iot-sim] INFO 
+🌪️ Starting gradual transition to pre_desastre mode over 125.0s...
+2026-10-15 14:22:16,731 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,731 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:22:16,732 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pre_desastre** mode.
+2026-10-15 14:23:41,570 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(35.1, 54.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.114 battery_idle_discharge=4.548 drop_percentage=39.8 delay_profiles=[{'probability': 75, 'min': 0.91, 'max': 2.047}, {'probability': 25, 'min': 2.274, 'max': 4.548}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,571 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,572 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.0, 52.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.1 battery_idle_discharge=4.02 drop_percentage=35.2 delay_profiles=[{'probability': 75, 'min': 0.804, 'max': 1.809}, {'probability': 25, 'min': 2.01, 'max': 4.02}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,574 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,575 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.4, 52.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.105 battery_idle_discharge=4.204 drop_percentage=36.8 delay_profiles=[{'probability': 75, 'min': 0.841, 'max': 1.892}, {'probability': 25, 'min': 2.102, 'max': 4.204}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,576 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.1, 52.2) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.101 battery_idle_discharge=4.048 drop_percentage=35.4 delay_profiles=[{'probability': 75, 'min': 0.81, 'max': 1.822}, {'probability': 25, 'min': 2.024, 'max': 4.048}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,577 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.7, 53.4) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.109 battery_idle_discharge=4.356 drop_percentage=38.1 delay_profiles=[{'probability': 75, 'min': 0.871, 'max': 1.96}, {'probability': 25, 'min': 2.178, 'max': 4.356}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,578 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.5, 53.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.107 battery_idle_discharge=4.272 drop_percentage=37.4 delay_profiles=[{'probability': 75, 'min': 0.854, 'max': 1.922}, {'probability': 25, 'min': 2.136, 'max': 4.272}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,579 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,579 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,579 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,579 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,583 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(35.1, 54.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.113 battery_idle_discharge=4.528 drop_percentage=39.6 delay_profiles=[{'probability': 75, 'min': 0.906, 'max': 2.038}, {'probability': 25, 'min': 2.264, 'max': 4.528}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,584 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='desastre' event_type='permanent' temperature_range=(34.7, 53.4) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.109 battery_idle_discharge=4.356 drop_percentage=38.1 delay_profiles=[{'probability': 75, 'min': 0.871, 'max': 1.96}, {'probability': 25, 'min': 2.178, 'max': 4.356}] coordinate={} transition_duration_s=42.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:23:41,584 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:23:41,584 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 42.0s...
+2026-10-15 14:24:23,652 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,652 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,652 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,652 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,653 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,653 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,653 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:24:23,653 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:25:10,532 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='falha_rede_transitoria' event_type='transient' temperature_range=(34.0, 52.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.1 battery_idle_discharge=4.02 drop_percentage=100.0 delay_profiles=[] coordinate={} transition_duration_s=0.0 transient_event_duration_s=69.0 transient_event_return_s=0.0
+2026-10-15 14:25:10,533 [iot-sim] INFO 
+🌪️ Starting gradual transition to falha_rede_transitoria mode over 0.0s...
+2026-10-15 14:25:10,533 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **falha_rede_transitoria** mode.
+2026-10-15 14:25:10,533 [iot-sim] INFO ⏳ Transient event active for 69.0 seconds...
+2026-10-15 14:25:40,479 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='falha_energetica_permanente' event_type='permanent' temperature_range=(34.4, 52.8) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.105 battery_idle_discharge=120.0 drop_percentage=36.8 delay_profiles=[] coordinate={} transition_duration_s=0.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:25:40,479 [iot-sim] INFO 
+🌪️ Starting gradual transition to falha_energetica_permanente mode over 0.0s...
+2026-10-15 14:25:40,480 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **falha_energetica_permanente** mode.
+2026-10-15 14:26:19,534 [iot-sim] INFO 🔄 Returning to previous event over 0.0 seconds...
+2026-10-15 14:26:19,534 [iot-sim] INFO 
+🌪️ Starting gradual transition to desastre mode over 0.0s...
+2026-10-15 14:26:19,534 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **desastre** mode.
+2026-10-15 14:26:24,492 [iot-sim] INFO 🔋 Battery fully discharged.
+2026-10-15 14:26:24,493 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:26:37,075 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:26:42,080 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:26:47,084 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:26:52,088 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:26:57,090 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:02,092 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:07,096 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:12,098 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:17,105 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:22,109 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:24,494 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:27:27,119 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:32,118 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:37,125 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:42,158 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:47,129 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:52,133 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:27:57,136 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:02,140 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:07,143 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:12,147 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:17,150 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:22,155 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:24,496 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:28:27,158 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:32,162 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:37,165 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:42,168 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:47,172 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:52,175 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:28:57,179 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:02,183 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:07,186 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:11,518 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.3, 39.5) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.7 delay_profiles=[{'probability': 70, 'min': 0.16, 'max': 0.641}, {'probability': 30, 'min': 0.641, 'max': 1.495}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,519 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,519 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.4, 39.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.9 delay_profiles=[{'probability': 70, 'min': 0.163, 'max': 0.653}, {'probability': 30, 'min': 0.653, 'max': 1.525}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,520 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.7, 40.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=11.3 delay_profiles=[{'probability': 70, 'min': 0.17, 'max': 0.679}, {'probability': 30, 'min': 0.679, 'max': 1.585}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,521 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,521 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,522 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.7, 40.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=11.4 delay_profiles=[{'probability': 70, 'min': 0.171, 'max': 0.682}, {'probability': 30, 'min': 0.682, 'max': 1.592}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,523 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.0, 39.0) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.0 delay_profiles=[{'probability': 70, 'min': 0.151, 'max': 0.603}, {'probability': 30, 'min': 0.603, 'max': 1.407}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,523 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.4, 39.7) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.9 delay_profiles=[{'probability': 70, 'min': 0.163, 'max': 0.653}, {'probability': 30, 'min': 0.653, 'max': 1.525}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,524 [iot-sim] INFO 
+🚨 Received Event Mode Trigger: event_name='pos_desastre' event_type='permanent' temperature_range=(25.1, 39.1) pressure_range=(1000.0, 1020.0) battery_transmit_discharge=0.04 battery_idle_discharge=0.5 drop_percentage=10.1 delay_profiles=[{'probability': 70, 'min': 0.152, 'max': 0.607}, {'probability': 30, 'min': 0.607, 'max': 1.417}] coordinate={} transition_duration_s=100.0 transient_event_duration_s=0.0 transient_event_return_s=0.0
+2026-10-15 14:29:11,524 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,524 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,525 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:11,525 [iot-sim] INFO 
+🌪️ Starting gradual transition to pos_desastre mode over 100.0s...
+2026-10-15 14:29:12,189 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:17,193 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:22,194 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:24,498 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:29:27,196 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:32,198 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:37,201 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:42,202 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:47,205 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:52,207 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:29:57,208 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:02,213 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:07,212 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:12,219 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:17,218 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:22,220 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:24,500 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:30:27,222 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:32,225 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:37,227 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:42,230 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:47,231 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:51,701 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,702 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,702 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,702 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,702 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,702 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:51,703 [iot-sim] INFO 🌪️ Transition complete. Simulator is now in **pos_desastre** mode.
+2026-10-15 14:30:52,232 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:30:57,235 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:02,238 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:07,243 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:12,241 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:17,244 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:22,245 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:24,500 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:31:27,246 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:32,248 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:37,251 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:42,254 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:47,256 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:52,257 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:31:57,259 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:02,262 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:07,264 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:12,265 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:17,268 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:22,269 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:24,502 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:32:27,270 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:32,271 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:37,271 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:42,273 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:47,274 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:52,275 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:32:57,275 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:02,277 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:07,278 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:12,278 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:17,279 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:22,279 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:24,503 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:33:27,280 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:32,285 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:37,289 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:42,291 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:47,297 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:52,301 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:33:57,303 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:02,306 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:07,310 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:12,314 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:17,318 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:22,322 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:24,504 [iot-sim-batch] INFO 1/11 batteries discharged
+2026-10-15 14:34:27,327 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:32,330 [coap-server] INFO Render request raised a renderable error (ServiceUnavailable('Battery fully discharged.')), responding accordingly.
+2026-10-15 14:34:33,011 [iot-sim-batch] INFO shutting down batch server ...
+2026-10-15 14:34:33,019 [iot-sim-batch] INFO all 11 device(s) shut down

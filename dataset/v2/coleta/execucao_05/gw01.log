@@ -1,0 +1,187 @@
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9501/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9505/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9501/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9503/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] Timeout requesting coap://127.0.0.1:9504/device/data (>15.00s)
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[CoAP] 503 Service Unavailable (Battery) for coap://127.0.0.1:9505/device/data
+[INFO] Cancelled by user.
