@@ -1,21 +1,16 @@
-# Ambientes Virtuais e Credenciais
+# Ambientes virtuais e credenciais
 .venv/
 .env
 
-# Bancos de Dados e Datasets
-*.csv
-*.dat
-*.out
-*.json
-datasets/
-data/
+# Simulador: cópia local de github.com/paulo-coelho/iot-sim, com repositório Git próprio
+iot-sim-main/
 
-# Arquivos compilados do Python (Machine Learning)
+# Python e Jupyter
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
 
-# Arquivos compilados do Java (IoTSim)
+# Java
 *.class
 target/
 bin/
